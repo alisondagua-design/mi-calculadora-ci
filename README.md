@@ -4,8 +4,8 @@ Proyecto de calculadora en PHP con pruebas unitarias automatizadas mediante GitH
 
 ## Integrantes
 
-- <!-- Nombre completo integrante 1 -->
-- <!-- Nombre completo integrante 2 -->
+- Alison Lopez Dagua - alison.dagua@correounivalle.edu.co
+- Francisco Fabio Ararat Gutierrez - francisco.ararat@correounivalle.edu.co
 
 ## Badge de Estado del Pipeline
 
