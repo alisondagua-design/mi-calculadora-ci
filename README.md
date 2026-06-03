@@ -2,6 +2,16 @@
 
 Proyecto de calculadora en PHP con pruebas unitarias automatizadas mediante GitHub Actions (CI/CD).
 
+
+
+## Descripción
+
+Este proyecto implementa una calculadora orientada a objetos en PHP que incluye operaciones matemáticas básicas y avanzadas. Además, cuenta con pruebas unitarias desarrolladas con PHPUnit y un flujo de integración continua mediante GitHub Actions que ejecuta automáticamente las pruebas cada vez que se realiza un cambio en el repositorio. 
+
+
+
+
+
 ## Integrantes
 
 - Alison Lopez Dagua - alison.dagua@correounivalle.edu.co
@@ -18,6 +28,16 @@ Proyecto de calculadora en PHP con pruebas unitarias automatizadas mediante GitH
 - PHPUnit 10
 - GitHub Actions
 
+## Cobertura de Pruebas
+
+Se realizan pruebas para:
+
+Operaciones matemáticas básicas.
+Operaciones avanzadas.
+Casos límite.
+Manejo de excepciones.
+
+
 ## Cómo ejecutar las pruebas localmente
 
 ```bash
@@ -28,3 +48,14 @@ composer install
 ## URL del Repositorio
 
 https://github.com/alisondagua-design/mi-calculadora-ci
+
+
+### Objetivo Académico
+
+Este proyecto fue desarrollado como práctica de la asignatura Desarrollo de Software II para aplicar conceptos de:
+
+Programación Orientada a Objetos.
+Pruebas Unitarias.
+Integración Continua.
+Automatización de procesos de desarrollo.
+Control de versiones con Git y GitHub.
