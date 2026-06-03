@@ -29,4 +29,23 @@ class CalculadoraTest extends TestCase {
         $this->expectException(\InvalidArgumentException::class);
         $this->calc->dividir(5, 0);
     }
+
+
+     public function testPotencia() {
+        $this->assertEquals(8, $this->calc->potencia(2, 3));
+    }
+ 
+    public function testRaizCuadrada() {
+        $this->assertEquals(3, $this->calc->raizCuadrada(9));
+    }
+ 
+    public function testRaizCuadradaDeNegativoLanzaExcepcion() {
+        $this->expectException(\InvalidArgumentException::class);
+        $this->calc->raizCuadrada(-4);
+    }
+ 
+    public function testValorAbsoluto() {
+        $this->assertEquals(5, $this->calc->valorAbsoluto(-5));
+    }
+
 }
