@@ -10,7 +10,7 @@ Proyecto de calculadora en PHP con pruebas unitarias automatizadas mediante GitH
 ## Badge de Estado del Pipeline
 
 <!-- Reemplazar YOUR_USERNAME y YOUR_REPO con los datos reales -->
-![PHP CI](https://github.com/YOUR_USERNAME/YOUR_REPO/actions/workflows/php-ci.yml/badge.svg)
+![PHP CI](https://github.com/alisondagua-design/mi-calculadora-ci/actions/workflows/php-ci.yml/badge.svg)
 
 ## Tecnologías
 
@@ -28,4 +28,4 @@ composer install
 
 ## URL del Repositorio
 
-<!-- Ejemplo: https://github.com/nombre-alumno/mi-calculadora-ci -->
+https://github.com/alisondagua-design/mi-calculadora-ci
